@@ -60,11 +60,11 @@ def process_player_list(player_names, photo_type, context, download_dir):
 # Usage example
 if __name__ == '__main__':
     # List of player names
-    player_names = ["Daniel Jones", "Tom Brady", "Patrick Mahomes"]
+    player_names = ["Jaylen Waddle", "David Njoku", "David Montgomery"]
     
     # Parameters for the search query
     photo_type = "headshot"
-    context = "nfl"
+    context = "insider.espn.com"
     
     # Directory to save the images
     download_dir = os.path.join(os.getcwd(), "player_images")
