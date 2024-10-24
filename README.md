@@ -1,2 +1,2 @@
-# ScrapeGoogleImages
-Toy script to scrape google images programmatically 
+# Scrape DuckDuckGo For Images
+Toy script to scrape Duck Duck Go for images programmatically using selenium.
